@@ -45,7 +45,7 @@ The primary purpose of this Power BI dash board was to enhance understanding of 
 2. There were higher record of sales from the United kingdom.
 3. Paper craft, Little birdie was identified as the most bought product, generating a revenue of over 169 thousand.
 #### Limitations
-1.There were empty spaces.
+1. There were empty spaces.
 2. Products with improper names were eliminated.
 3. couldn’t identity product with least sales in SQL because of the empty spaces.
 
